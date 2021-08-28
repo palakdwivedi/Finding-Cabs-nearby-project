@@ -1,0 +1,11 @@
+usr001 0 80 Palak
+usr002 45 90 Vandana
+usr003 75 100 Kamla Kant
+usr004 270 90 Sunita
+usr005 45 60 Dheeraj
+usr006 85 110 Neeraj
+usr007 360 280 Kanak
+usr008 77 81 Shani
+usr009 10 20 Manav
+usr0010 30 11 Azhar80
+
